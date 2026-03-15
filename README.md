@@ -1,43 +1,41 @@
 # 1Nonly-BK
-<!DOCTYPE html>
-<html>
-<head>
-<title>1Nonly-BK</title>
+<h1 align="center">⚡ 1Nonly-BK ⚡</h1><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Hacker+Mindset;Flutter+Developer;Android+Developer;Web+Developer;Building+Next+Gen+Projects" />
+</p>---
 
-<style>
+🧠 About Me
 
-body{
-background:black;
-color:#00ff9f;
-font-family:monospace;
-text-align:center;
-}
+💻 Developer with Hacker Mindset
+🚀 Building Powerful Apps & Tools
+🧠 Tech Enthusiast
+🌌 Founder of DEV ZONE
 
-h1{
-font-size:50px;
-margin-top:100px;
-}
+---
 
-.btn{
-display:inline-block;
-padding:12px 25px;
-border:1px solid #00ff9f;
-color:#00ff9f;
-text-decoration:none;
-margin-top:20px;
-}
+⚔ Tech Stack
 
-</style>
+<p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,android,java,html,css,js,git,github,vscode"/></p>---
 
-</head>
+📊 GitHub Stats
 
-<body>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1Nonly-BK&show_icons=true&theme=tokyonight"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=1Nonly-BK&theme=tokyonight"/></p>---
 
-<h1>⚡ 1Nonly-BK</h1>
+🧠 Most Used Languages
 
-<p>Hacker Mindset | Developer</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nonly-BK&layout=compact&theme=tokyonight"/></p>---
 
-<a class="btn" href="https://github.com/1Nonly-BK">GitHub</a>
+🐍 Contribution Snake
 
-</body>
-</html>
+<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /></p>---
+
+👁 Visitor Counter
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=1Nonly-BK&color=00ff00"/></p>---
+
+🌐 Connect With Me
+
+<p align="center"><a href="https://github.com/1Nonly-BK">GitHub</a>
+
+</p>---
+
+⭐ Code. Hack. Build. Repeat.
